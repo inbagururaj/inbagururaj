@@ -4,8 +4,6 @@
 
 ### `Aspiring Data Analyst`
 
-<sub>turning raw data into signal — one query at a time</sub>
-
 ---
 
 </div>
@@ -26,8 +24,3 @@
 
 ---
 
-<div align="center">
-
-📫 *Always building, always shipping.*
-
-</div>
