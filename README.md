@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ I N B A   G U R U R A J ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=160&section=header&text=INBA%20GURURAJ&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### `Aspiring Data Analyst`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4ADE80&center=true&vCenter=true&width=440&lines=Aspiring+Data+Analyst;Building+with+Data+%26+Code;Turning+Raw+Data+into+Signal" alt="Typing SVG" />
 
 ---
 
@@ -24,3 +24,8 @@
 
 ---
 
+<div align="center">
+
+📫 *Always building, always shipping.*
+
+</div>
