@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**inbagururaj/inbagururaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ I N B A   G U R U R A J ⚡
 
-Here are some ideas to get you started:
+### `Aspiring Data Analyst`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>turning raw data into signal — one query at a time</sub>
+
+---
+
+</div>
+
+## 🧰 Tech Stack
+
+### 📱 Frontend (Mobile + UI)
+- **SwiftUI** — native iOS UI framework
+- **React Native** — cross-platform mobile app framework
+
+### 🌐 Frontend (Web)
+- **HTML** — structure + layout
+- **TypeScript** — typed logic for the web frontend
+
+### 🗄️ Backend / Database
+- **Supabase** — auth, storage, Postgres API
+- **Neon** — serverless Postgres database
+
+---
+
+<div align="center">
+
+📫 *Always building, always shipping.*
+
+</div>
