@@ -23,6 +23,7 @@
 ### 📱 Frontend (Mobile + UI)
 - **SwiftUI** — native iOS UI framework
 - **React Native** — cross-platform mobile app framework
+- **Flutter** — cross-platform UI toolkit for mobile, web, and desktop
 
 ### 🌐 Frontend (Web)
 - **HTML** — structure + layout
