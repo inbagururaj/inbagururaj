@@ -9,7 +9,7 @@
 
 ## 🛠️ Highlights
 
-- 📱 **Mobile App Development** — designed and shipped a cross-platform iOS app from scratch (React Native / Expo), handling everything from architecture to UI/UX
+- 📱 **Mobile App Development** — developed a cross-platform iOS app from scratch (React Native / Expo), handling everything from architecture to UI/UX
 - 🕸️ **Web Scraping & Automation** — built scrapers and automation pipelines to extract and normalize data from third-party web platforms using injected scripts and headless browser interception
 - 🎨 **Custom Theming Engine** — built a multi-preset dynamic theme system with live color/style switching across an app
 - 🌐 **Landing Pages & Marketing Sites** — built animated, responsive landing pages with scroll-triggered effects and countdown timers
