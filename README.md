@@ -9,23 +9,23 @@
 
 ## Highlights
 
-- **Product Development** — built and iterated on multiple full‑stack applications from architecture to deployment, focusing on reliability, data integrity, and user experience  
-- **System Automation** — designed and refined backend workflows for data collection, synchronization, and analytics across distributed environments  
-- **AI‑Assisted Engineering** — iterated over 20 million Claude tokens in a month to refine architecture, automation, and design workflows  
+- **Product Development** — built and refined multiple full‑stack applications from architecture to deployment, focusing on reliability and user experience  
+- **System Automation** — designed backend workflows for data collection, synchronization, and analytics  
+- **AI‑Assisted Engineering** — used over 20 million Claude tokens in one month to improve architecture, automation, and design workflows  
 
 ## Tech Stack
 
 ### Frontend (Mobile + UI)
 - **SwiftUI** — native iOS UI framework  
 - **React Native** — cross‑platform mobile app framework  
-- **Flutter** — cross‑platform UI toolkit for mobile, web, and desktop  
+- **Flutter** — UI toolkit for mobile, web, and desktop  
 
 ### Frontend (Web)
-- **HTML** — structure + layout  
-- **TypeScript** — typed logic for the web frontend  
+- **HTML** — structure and layout  
+- **TypeScript** — typed logic for web development  
 
 ### Backend / Database
-- **Supabase** — auth, storage, Postgres API  
+- **Supabase** — authentication, storage, Postgres API  
 - **Neon** — serverless Postgres database  
 
 ---
