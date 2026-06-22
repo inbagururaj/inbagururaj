@@ -7,30 +7,28 @@
 
 </div>
 
-## 🛠️ Highlights
+## Highlights
 
-- 📱 **Mobile App Development** — developed a cross-platform iOS app from scratch (React Native / Expo), handling everything from architecture to UI/UX
-- 🕸️ **Web Scraping & Automation** — built scrapers and automation pipelines to extract and normalize data from third-party web platforms using injected scripts and headless browser interception
-- 🎨 **Custom Theming Engine** — built a multi-preset dynamic theme system with live color/style switching across an app
-- 🌐 **Landing Pages & Marketing Sites** — built animated, responsive landing pages with scroll-triggered effects and countdown timers
-- 🗃️ **Database Design** — designed relational schemas (Postgres) with migration files and verification scripts for multi-source data
+- **Mobile App Development** — developed a cross‑platform iOS app from scratch (React Native / Expo), handling everything from architecture to UI/UX  
+- **Web Scraping & Automation** — built scrapers and automation pipelines to extract and normalize data from third‑party web platforms using injected scripts and headless browser interception  
+- **Custom Theming Engine** — built a multi‑preset dynamic theme system with live color/style switching across an app  
+- **Landing Pages & Marketing Sites** — built animated, responsive landing pages with scroll‑triggered effects and countdown timers  
+- **Database Design** — designed relational schemas (Postgres) with migration files and verification scripts for multi‑source data  
+- **AI‑Assisted Development** — iterated over 20 million Claude tokens in a month to refine architecture, automation, and design workflows  
 
+## Tech Stack
 
+### Frontend (Mobile + UI)
+- **SwiftUI** — native iOS UI framework  
+- **React Native** — cross‑platform mobile app framework  
+- **Flutter** — cross‑platform UI toolkit for mobile, web, and desktop  
 
+### Frontend (Web)
+- **HTML** — structure + layout  
+- **TypeScript** — typed logic for the web frontend  
 
-## 🧰 Tech Stack
-
-### 📱 Frontend (Mobile + UI)
-- **SwiftUI** — native iOS UI framework
-- **React Native** — cross-platform mobile app framework
-- **Flutter** — cross-platform UI toolkit for mobile, web, and desktop
-
-### 🌐 Frontend (Web)
-- **HTML** — structure + layout
-- **TypeScript** — typed logic for the web frontend
-
-### 🗄️ Backend / Database
-- **Supabase** — auth, storage, Postgres API
-- **Neon** — serverless Postgres database
+### Backend / Database
+- **Supabase** — auth, storage, Postgres API  
+- **Neon** — serverless Postgres database  
 
 ---
