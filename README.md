@@ -9,12 +9,9 @@
 
 ## Highlights
 
-- **Mobile App Development** — developed a cross‑platform iOS app from scratch (React Native / Expo), handling everything from architecture to UI/UX  
-- **Web Scraping & Automation** — built scrapers and automation pipelines to extract and normalize data from third‑party web platforms using injected scripts and headless browser interception  
-- **Custom Theming Engine** — built a multi‑preset dynamic theme system with live color/style switching across an app  
-- **Landing Pages & Marketing Sites** — built animated, responsive landing pages with scroll‑triggered effects and countdown timers  
-- **Database Design** — designed relational schemas (Postgres) with migration files and verification scripts for multi‑source data  
-- **AI‑Assisted Development** — iterated over 20 million Claude tokens in a month to refine architecture, automation, and design workflows  
+- **Product Development** — built and iterated on multiple full‑stack applications from architecture to deployment, focusing on reliability, data integrity, and user experience  
+- **System Automation** — designed and refined backend workflows for data collection, synchronization, and analytics across distributed environments  
+- **AI‑Assisted Engineering** — iterated over 20 million Claude tokens in a month to refine architecture, automation, and design workflows  
 
 ## Tech Stack
 
