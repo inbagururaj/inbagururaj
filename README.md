@@ -1,4 +1,4 @@
-7777<div align="center">
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=120&section=header&text=INBA%20GURURAJ&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=Solo+founder+building+in+public;Shipping+fast+on+Windows;AI-native+product+development" alt="Typing SVG" />
 </div>
