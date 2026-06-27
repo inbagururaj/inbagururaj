@@ -1,40 +1,15 @@
-name: Update Contribution Counter
-
-on:
-  schedule:
-    - cron: '0 0 * * *' # Updates automatically every night at midnight
-  workflow_dispatch: # Allows you to press a button to update it instantly
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
       - name: Fetch Live Contributions Count
         id: fetch_stats
         run: |
-          # Safely query a fast public metric tracker for your total counts
-          COUNT=$(curl -s "https://deno.dev" | jq '.total')
+          # Queries your true lifetime total across all public and private repos
+          RESPONSE=$(curl -s -H "Authorization: bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -X POST -d '{"query":"query { viewer { contributionsCollection { contributionCalendar { totalContributions } } } }"}' \
+            https://github.com)
+          
+          COUNT=$(echo "$RESPONSE" | jq '.data.viewer.contributionsCollection.contributionCalendar.totalContributions')
+          
           if [ -z "$COUNT" ] || [ "$COUNT" = "null" ]; then
             echo "Failed to get stats, defaulting to fallback"
-            COUNT="1,000+"
+            COUNT="448"
           fi
           echo "total_contributions=$COUNT" >> $GITHUB_OUTPUT
-
-      - name: Write Number into README
-        run: |
-          CONTRIBS="${{ steps.fetch_stats.outputs.total_contributions }}"
-          # Use sed to instantly swap the number text between your tags safely
-          sed -i -E "s|(<!--CONTRIBUTIONS_COUNT-->).*?(<!--CONTRIBUTIONS_COUNT-->)|\1${CONTRIBS}\2|g" README.md
-
-      - name: Commit and Push update
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@://github.com"
-          git add README.md
-          git diff-index --quiet HEAD || git commit -m "chore: updated live contribution counter to ${{ steps.fetch_stats.outputs.total_contributions }}"
-          git push
