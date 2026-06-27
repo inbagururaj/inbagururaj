@@ -2,10 +2,7 @@
 <img src="https://vercel.app" width="100%"/>
 <img src="https://demolab.com" alt="Typing SVG" />
 
-<br/>
-
-<!-- REAL-TIME TOTAL CONTRIBUTIONS BADGE -->
-<img src="https://demolab.com" alt="GitHub Contributions" />
+<h3>🚀 <!--CONTRIBUTIONS_COUNT-->0<!--CONTRIBUTIONS_COUNT--> lifetime GitHub contributions</h3>
 </div>
 
 ---
