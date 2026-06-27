@@ -1,8 +1,9 @@
 <div align="center">
-<img src="https://vercel.app" width="100%"/>
-<img src="https://demolab.com" alt="Typing SVG" />
-
-<h3>🚀 <!--CONTRIBUTIONS_COUNT-->0<!--CONTRIBUTIONS_COUNT--> lifetime GitHub contributions</h3>
+  <img src="https://vercel.app" width="100%"/>
+  <br/>
+  <img src="https://demolab.com" alt="Typing SVG" />
+  <br/>
+  <h3>🚀 <!--CONTRIBUTIONS_COUNT-->448<!--CONTRIBUTIONS_COUNT--> lifetime GitHub contributions</h3>
 </div>
 
 ---
