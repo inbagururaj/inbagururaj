@@ -1,12 +1,16 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=120&section=header&text=INBA%20GURURAJ&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4ADE80&center=true&vCenter=true&width=500&lines=Solo+founder+building+in+public;Shipping+fast+on+Windows;AI-native+product+development" alt="Typing SVG" />
+</div>
+
+## -GitHub Stats-
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=inbagururaj&theme=dark&hide_border=true&background=0D1117&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80" />
 </div>
 
 ---
 
 ## -Highlights-
-
 - **Solo Product Development** — taken multiple full-stack desktop and web apps from zero to deployed, handling architecture, design, and engineering alone
 - **AI-Native Workflow** — used 20M+ Claude tokens in a single month across product design, code generation, and system architecture
 - **Tauri + Rust desktop apps** — cross-platform native desktop development with web frontends, including deep Windows support
