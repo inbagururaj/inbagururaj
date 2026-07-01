@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=120&section=header&text=INBA%20GURURAJ&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </div>
-
 ## -GitHub Stats-
 
 <div align="center">
