@@ -5,7 +5,7 @@
 
 
 
-## -Highlights-
+## Highlights
 - **Solo Product Development** — taken multiple full-stack desktop and web apps from zero to deployed, handling architecture, design, and engineering alone
 - **AI-Native Workflow** — used 20M+ Claude tokens in a single month across product design, code generation, and system architecture
 - **Tauri + Rust desktop apps** — cross-platform native desktop development with web frontends, including deep Windows support
@@ -14,7 +14,7 @@
 
 
 
-## -Tech Stack-
+## Tech Stack
 
 ### Desktop
 - **Tauri v2** — Rust-backed native desktop apps for Windows and macOS
